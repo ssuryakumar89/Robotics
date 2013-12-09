@@ -1,0 +1,105 @@
+1 Added to the RRT Tree
+2- Config Rejected
+3 Added to the RRT Tree
+4 Added to the RRT Tree
+5- Config Rejected
+6 Added to the RRT Tree
+7- Config Rejected
+8- Config Rejected
+9 Tried to connect goal and RRT Tree - Failure
+10- Config Rejected
+11 Added to the RRT Tree
+12 Added to the RRT Tree
+13 Tried to connect goal and RRT Tree - Failure
+14- Config Rejected
+15 Added to the RRT Tree
+16- Config Rejected
+17- Config Rejected
+18 Added to the RRT Tree
+19- Config Rejected
+20- Config Rejected
+21- Config Rejected
+22 Added to the RRT Tree
+23- Config Rejected
+24- Config Rejected
+25 Added to the RRT Tree
+26 Added to the RRT Tree
+27- Config Rejected
+28 Added to the RRT Tree
+29- Config Rejected
+30- Config Rejected
+31- Config Rejected
+32- Config Rejected
+33- Config Rejected
+34- Config Rejected
+35- Config Rejected
+36 Added to the RRT Tree
+37 Added to the RRT Tree
+38- Config Rejected
+39- Config Rejected
+40- Config Rejected
+41 Added to the RRT Tree
+42- Config Rejected
+43 Added to the RRT Tree
+44- Config Rejected
+45 Added to the RRT Tree
+46 Added to the RRT Tree
+47- Config Rejected
+48 Tried to connect goal and RRT Tree - Failure
+49 Added to the RRT Tree
+50 Added to the RRT Tree
+51- Config Rejected
+52- Config Rejected
+53 Added to the RRT Tree
+54 Added to the RRT Tree
+55- Config Rejected
+56 Added to the RRT Tree
+57- Config Rejected
+58 Added to the RRT Tree
+59 Added to the RRT Tree
+60 Added to the RRT Tree
+61 Added to the RRT Tree
+62 Added to the RRT Tree
+63- Config Rejected
+64 Added to the RRT Tree
+65 Added to the RRT Tree
+66- Config Rejected
+67- Config Rejected
+68- Config Rejected
+69- Config Rejected
+70- Config Rejected
+71- Config Rejected
+72- Config Rejected
+73 Added to the RRT Tree
+74- Config Rejected
+75- Config Rejected
+76 Added to the RRT Tree
+77 Added to the RRT Tree
+78 Tried to connect goal and RRT Tree - Failure
+79- Config Rejected
+80- Config Rejected
+81 Added to the RRT Tree
+82 Added to the RRT Tree
+83- Config Rejected
+84 Added to the RRT Tree
+85 Added to the RRT Tree
+86- Config Rejected
+87 Added to the RRT Tree
+88 Added to the RRT Tree
+89 Tried to connect goal and RRT Tree - Failure
+90 Tried to connect goal and RRT Tree - Failure
+91 Added to the RRT Tree
+92 Added to the RRT Tree
+93 Added to the RRT Tree
+94 Tried to connect goal and RRT Tree - Failure
+95 Added to the RRT Tree
+96- Config Rejected
+97- Config Rejected
+98 Added to the RRT Tree
+99 Added to the RRT Tree
+100 Added to the RRT Tree
+101- Config Rejected
+Total No of Samples : 100
+Mile Stones (including start,goal) : 54
+Rejected Nodes : 48
+Could not connect to goal within the sample space

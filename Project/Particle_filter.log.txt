@@ -1,0 +1,15 @@
+After step number 1 Distinct Number of Particles : 29
+After step number 2 Distinct Number of Particles : 380
+After step number 3 Distinct Number of Particles : 753
+After step number 4 Distinct Number of Particles : 810
+After step number 5 Distinct Number of Particles : 808
+After step number 6 Distinct Number of Particles : 772
+After step number 7 Distinct Number of Particles : 805
+After step number 8 Distinct Number of Particles : 788
+After step number 9 Distinct Number of Particles : 793
+After step number 10 Distinct Number of Particles : 740
+After step number 11 Distinct Number of Particles : 804
+After step number 12 Distinct Number of Particles : 812
+After step number 13 Distinct Number of Particles : 814
+After step number 14 Distinct Number of Particles : 807
+After step number 15 Distinct Number of Particles : 800

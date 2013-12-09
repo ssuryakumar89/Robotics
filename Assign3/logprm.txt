@@ -1,0 +1,111 @@
+1 - added to the PRM graph
+2 - added to the PRM graph
+3 - added to the PRM graph
+4 - added to the PRM graph
+5 - added to the PRM graph
+6- Config Rejected
+7- Config Rejected
+8 - added to the PRM graph
+9 - added to the PRM graph
+10 - added to the PRM graph
+11 - added to the PRM graph
+12 - added to the PRM graph
+13- Config Rejected
+14- Config Rejected
+15- Config Rejected
+16 - added to the PRM graph
+17 - added to the PRM graph
+18- Config Rejected
+19 - added to the PRM graph
+20 - added to the PRM graph
+21 - added to the PRM graph
+22 - added to the PRM graph
+23 - added to the PRM graph
+24- Config Rejected
+25 - added to the PRM graph
+26 - added to the PRM graph
+27- Config Rejected
+28 - added to the PRM graph
+29- Config Rejected
+30 - added to the PRM graph
+31- Config Rejected
+32 - added to the PRM graph
+33- Config Rejected
+34- Config Rejected
+35 - added to the PRM graph
+36- Config Rejected
+37 - added to the PRM graph
+38 - added to the PRM graph
+39- Config Rejected
+40 - added to the PRM graph
+41 - added to the PRM graph
+42- Config Rejected
+43 - added to the PRM graph
+44 - added to the PRM graph
+45- Config Rejected
+46 - added to the PRM graph
+47 - added to the PRM graph
+48- Config Rejected
+49 - added to the PRM graph
+50- Config Rejected
+51- Config Rejected
+52- Config Rejected
+53- Config Rejected
+54- Config Rejected
+55 - added to the PRM graph
+56- Config Rejected
+57 - added to the PRM graph
+58 - added to the PRM graph
+59- Config Rejected
+60- Config Rejected
+61- Config Rejected
+62 - added to the PRM graph
+63 - added to the PRM graph
+64 - added to the PRM graph
+65 - added to the PRM graph
+66 - added to the PRM graph
+67- Config Rejected
+68 - added to the PRM graph
+69- Config Rejected
+70 - added to the PRM graph
+71 - added to the PRM graph
+72 - added to the PRM graph
+73- Config Rejected
+74 - added to the PRM graph
+75- Config Rejected
+76 - added to the PRM graph
+77- Config Rejected
+78- Config Rejected
+79- Config Rejected
+80 - added to the PRM graph
+81 - added to the PRM graph
+82 - added to the PRM graph
+83- Config Rejected
+84 - added to the PRM graph
+85 - added to the PRM graph
+86 - added to the PRM graph
+87- Config Rejected
+88 - added to the PRM graph
+89- Config Rejected
+90- Config Rejected
+91- Config Rejected
+92- Config Rejected
+93 - added to the PRM graph
+94 - added to the PRM graph
+95- Config Rejected
+96- Config Rejected
+97- Config Rejected
+98 - added to the PRM graph
+99- Config Rejected
+100 - added to the PRM graph
+Finding and adding neighbours
+Adding Start Information
+Adding Goal Information
+Adding neighbours for start and goal
+Searching for a path...
+Start Not Found from Goal.So No path
+Total No of Samples(including start,goal) : 102
+Mile Stones : 59
+Rejected Nodes : 43
+Nodes in Path : 57
+Length of Shortest Path : 57
